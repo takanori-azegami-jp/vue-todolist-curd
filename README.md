@@ -1,4 +1,4 @@
-# DockerBuild-RaspberryPi-VueNode-Todolist
+# docker-rpi-vue-todolist-curd
 RaspberryPi(64bit)にDockerでVue.js + Express + SequelizeのCRUD搭載Todoリストを作成する
 
 ##参考サイト
